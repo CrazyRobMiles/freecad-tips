@@ -6,6 +6,8 @@
 
 ## Getting Started
 
+* [Installing FreeCAD](/pages/Install%20Freecad.md)
+
 * [Making a Macro](/pages/Making%20a%20macro.md)
 
 * [Understanding dimensions](/pages/Understanding%20dimensions.md)
